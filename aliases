@@ -27,3 +27,5 @@ alias s="rspec"
 
 # Pretty print the path
 alias path="echo $PATH | tr -s ':' '\n'"
+
+# eval $(hub alias -s)
